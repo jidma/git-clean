@@ -1,0 +1,24 @@
+{
+  "name": "git-clean",
+  "version": "0.0.1",
+  "description": "Cleans a git repository by checking out files with only date time change (no actual content changes)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jidma/git-clean.git"
+  },
+  "keywords": [
+    "Clean",
+    "Git",
+    "Repository"
+  ],
+  "author": "Majid Laissi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jidma/git-clean/issues"
+  },
+  "homepage": "https://github.com/jidma/git-clean#readme"
+}
