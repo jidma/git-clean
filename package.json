@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/jidma/git-clean/issues"
   },
-  "homepage": "https://github.com/jidma/git-clean#readme"
+  "homepage": "https://github.com/jidma/git-clean#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "simple-git": "^2.37.0"
+  }
 }
